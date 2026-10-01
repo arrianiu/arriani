@@ -111,41 +111,43 @@ A POS system designed to manage products, transactions, and sales records.
 
 <b>Technological University of the Philippines – Manila</b>
 
-<br>
-
 <em>BS Information Technology</em>
 
 <br><br>
 
 ### 🌐 Associations
 
-<br>
+<div align="center">
+
+<div style="display: flex; justify-content: center; gap: 80px;">
+
+<div align="center">
 
 <a href="https://www.facebook.com/GDGonCampusTUPManila">
-<img src="./assets/gdg.jpg" width="110">
+<img src="./assets/gdg.jpg" width="100" height="100">
 </a>
 
 <br>
 
-<b>Google Developer Groups on TUPM</b>
-
-<br>
-
+<b>Google Developer Groups on TUPM</b><br>
 <sub>AI / ML Lead · Chief Human Resources Officer</sub>
 
-<br><br><br>
+</div>
+
+<div align="center">
 
 <a href="https://www.facebook.com/AWSSBGHugo">
-<img src="./assets/aws.jpg" width="110">
+<img src="./assets/aws.jpg" width="100" height="100">
 </a>
 
 <br>
 
-<b>AWS Student Builder Group - Hugo</b>
-
-<br>
-
+<b>AWS Student Builder Group - Hugo</b><br>
 <sub>System Associate · Data Science/Engineering Associate</sub>
+
+</div>
+
+</div>
 
 </div>
 
