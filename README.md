@@ -80,13 +80,13 @@ A system for calculating estate distribution using the **Talmudic Contested Clai
 
 ---
 
-### 🏪 Public Market Management System
+### 🏪 Public Market Management System using Java
 
 A system designed to help organize and manage public market operations, records, and transactions.
 
 ---
 
-### 💳 Point of Sale System
+### 💳 Point of Sale System using Java with MySQL
 
 A POS system designed to manage products, transactions, and sales records.
 
@@ -96,10 +96,8 @@ A POS system designed to manage products, transactions, and sales records.
 
 - SQL & Database Management
 - Data Analysis
-- Microsoft Excel
 - Web Development
 - IT Operations
-- Git & GitHub
 
 ---
 
@@ -130,7 +128,7 @@ A POS system designed to manage products, transactions, and sales records.
 <br>
 
 <b>Google Developer Groups on TUPM</b><br>
-<sub>AI / ML Lead · Chief Human Resources Officer</sub>
+<sub>Chief Human Resources Officer</sub>
 
 </div>
 
