@@ -4,7 +4,7 @@
 
 ### BS Information Technology
 
-**DATA · SQL · SYSTEMS · UI/UX**
+**DATA · SQL · PYTHON · SYSTEMS · UI/UX**
 
 </div>
 
@@ -14,21 +14,21 @@
 
 I'm **Arriani**, a **BS Information Technology** student at the **Technological University of the Philippines – Manila**.
 
-I enjoy building practical systems, working with databases, and exploring how technology can make everyday processes more organized and efficient.
+I enjoy building systems, working with databases, and exploring technology. From developing data-driven systems and optimization tools to designing accessible and user-friendly interfaces.
 
-I'm currently developing my skills in **SQL, databases, web development, data, and IT operations**.
+I'm continuously developing my skills in data, programming, web development, systems, and IT operations.
 
 ---
 
 ## > current_focus
 
-| 🗄️ **Data & SQL** | ⚙️ **Systems** |
+| 🗄️ **Data & SQL** | ⚙️ **Systems & Development** |
 |---|---|
-| Learning database management, SQL, and working with structured data. | Building practical systems that solve real-world problems. |
+| Learning database management, SQL, and data analysis. | Building practical software and web-based systems that solve real-world problems. |
 
-| 💻 **Development** | 📊 **Operations** |
+| 💻 **Python & Algorithm** | 📊 **UI/UX Design** |
 |---|---|
-| Exploring web development and software projects. | Interested in technology, processes, and data-driven work. |
+| Exploring python, optimization algorithms, machine learning. | Designing accessible, intuitive, and user-centered interfaces using Figma. |
 
 ---
 
@@ -36,10 +36,11 @@ I'm currently developing my skills in **SQL, databases, web development, data, a
 
 ### Languages
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Development
 
@@ -52,15 +53,14 @@ I'm currently developing my skills in **SQL, databases, web development, data, a
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 ---
 
-## > featured_projects
+## > ALL_projects
 
-### 🚨 RescueFlow
+### RescueFlow
 
 **Real-time customer risk monitoring & early-alert system**
 
@@ -70,7 +70,7 @@ Processes incoming customer events, calculates cumulative risk scores, categoriz
 
 ---
 
-### 🏛️ HATIAN — Deceased Estate Division System
+### HATIAN — Deceased Estate Division System
 
 **Web-based estate division calculator**
 
@@ -80,15 +80,19 @@ A system for calculating estate distribution using the **Talmudic Contested Clai
 
 ---
 
-### 🏪 Public Market Management System using Java
+### Computer Vision: Real-Time Exercise Tracking
 
-A system designed to help organize and manage public market operations, records, and transactions.
+`Python` · `Computer Vision` · `Machine Learning`
+
+Processes live video streams to identify exercise types from different camera angles, validate pose accuracy, and automate repetition counting.
 
 ---
 
-### 💳 Point of Sale System using Java with MySQL
+### TUP Student Portal UI/UX Redesign
 
-A POS system designed to manage products, transactions, and sales records.
+`Figma` · `Prototype` · `UI/UX`
+
+Redesigned the TUP student portal with a focus on navigation, usability, and accessibility, featuring dark mode, bilingual support, and a student-assistance chatbot named Grayhawk.
 
 ---
 
@@ -96,6 +100,7 @@ A POS system designed to manage products, transactions, and sales records.
 
 - SQL & Database Management
 - Data Analysis
+- Python & Algorithms
 - Web Development
 - IT Operations
 
