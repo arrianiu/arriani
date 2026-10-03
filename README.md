@@ -140,7 +140,7 @@ Redesigned the TUP student portal with a focus on navigation, usability, and acc
 <div align="center">
 
 <a href="https://www.facebook.com/AWSSBGHugo">
-<img src="./assets/aws.jpg" width="100" height="100">
+<img src="./assets/aws.png" width="100" height="100">
 </a>
 
 <br>
